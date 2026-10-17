@@ -158,7 +158,7 @@ Contributed to club operations, cybersecurity events, workshops, and community l
 
 ## Contribution Activity
 
-![Raveena's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RS3921&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph)
+[![Raveena's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RS3921&theme=tokyo-night)](https://github.com/RS3921)
 
 ---
 
