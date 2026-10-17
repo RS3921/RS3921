@@ -1,225 +1,452 @@
-# Hi, I'm Raveena Sharma
+<div align="center">
 
-### Cybersecurity Enthusiast | Cloud Security | SOC & Threat Detection | AI/ML
-
-**Final-year B.Tech Computer Science and IT (Cybersecurity) student** at Symbiosis Skills and Professional University, Pune, with a 9.0 CGPA.
-
-I enjoy exploring cybersecurity, building practical projects, researching security challenges, and developing secure and innovative solutions. My interests span Security Operations Centers, cloud security, threat detection, digital forensics, and AI-driven security.
-
-- Working as **Cloud Security and Innovation Lead at the AWS Student Builder Club**
-- Former **Senior Management Head at 0x0 PIR4T3S Cybersecurity Club**
-- Experience across cybersecurity research, cloud computing, AI/ML, and web development
-- Passionate about hands-on learning, teamwork, technical problem-solving, and continuous improvement
-- Goal: Build practical AWS cloud security solutions and prepare for the AWS Certified Security – Specialty certification
-
-[![GitHub](https://img.shields.io/badge/GitHub-RS3921-181717?style=for-the-badge&logo=github)](https://github.com/RS3921)
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-1679A7?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/RS3921)
-[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-
----
-
-## About Me
-
-I am a cybersecurity student who believes in learning by building, experimenting, and solving real-world problems. Through internships, research, projects, and student communities, I have explored different areas of technology and security.
-
-My focus is on strengthening my technical foundation while building practical skills in security monitoring, cloud protection, vulnerability assessment, and security automation.
-
-**What drives me:**
-
-- Building secure and reliable technology
-- Understanding how attacks happen and how to detect and prevent them
-- Exploring the intersection of AI and cybersecurity
-- Collaborating with people who enjoy learning and building
-- Sharing knowledge and contributing to the cybersecurity community
-
----
-
-## Technical Skills
-
-### Cybersecurity & SOC Operations
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-- SIEM and security monitoring fundamentals
-- Log analysis, alert triage, and incident response fundamentals
-- Threat detection and threat hunting fundamentals
-- MITRE ATT&CK, IDS/IPS, and network traffic analysis
-- Vulnerability assessment and penetration testing
-- Digital forensics, cryptography, and data loss prevention
-- OWASP Top 10 and secure development fundamentals
-
-### Cloud Security & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- Cloud security fundamentals and IAM concepts
-- Microsoft Azure cloud infrastructure fundamentals
-- AWS security services and cloud monitoring concepts
-- Docker, Git, and CI/CD security fundamentals
-
-### Programming & Web Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Databases & Development Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Featured Projects
-
-### 1. Symbiotic Chunk Storage
-
-A project focused on distributed, chunk-based data storage and a database-backed application.
-
-**Technologies:** Python, MongoDB, web technologies
-
-[Explore the repository](https://github.com/RS3921/Symbiotic-Chunk-Storage)
-
-### 2. Data Loss Prevention (DLP)
-
-A cybersecurity project focused on protecting sensitive information, encryption, and access control.
-
-**Focus:** Data protection, cryptography, secure data handling
-
-[Explore the repository](https://github.com/RS3921/DLP-Project)
-
-### 3. SAT-SA SOC Project
-
-An AI-assisted Security Operations Center project exploring the use of language models in security analysis and threat detection.
-
-**Focus:** SOC workflows, AI/ML, security analysis
-
-### 4. Cybersecurity Research & Practical Labs
-
-Hands-on exploration of security monitoring, vulnerability assessment, network analysis, digital forensics, and threat detection.
-
-I continue to expand this portfolio as I develop new tools, complete practical exercises, and build security-focused applications.
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/RS3921?tab=repositories)
-
----
-
-## How I Approach Cybersecurity
-
-```mermaid
-flowchart TD
-    A["Understand the Environment"] --> B["Collect Logs and Telemetry"]
-    B --> C["Analyze Events"]
-    C --> D["Identify Suspicious Activity"]
-    D --> E["Investigate and Validate"]
-    E --> F["Respond and Contain"]
-    F --> G["Document Findings"]
-    G --> H["Improve Detection"]
-    H --> B
-
-    style A fill:#102a43,stroke:#58a6ff,color:#ffffff
-    style C fill:#102a43,stroke:#58a6ff,color:#ffffff
-    style E fill:#102a43,stroke:#58a6ff,color:#ffffff
-    style F fill:#102a43,stroke:#58a6ff,color:#ffffff
-    style H fill:#102a43,stroke:#58a6ff,color:#ffffff
+```text
+ ____   ____   _____   ___   ____   _ 
+|  _ \ / ___| |___ /  / _ \ |___ \ / |
+| |_) |\___ \   |_ \ | (_) |  __) || |
+|  _ <  ___) | ___) | \__, | / __/ | |
+|_| \_\|____/ |____/    /_/ |_____||_|
+   > security operations // investigations // detection
 ```
 
-My approach combines technical investigation, structured analysis, documentation, and continuous improvement.
+# Raveena Sharma
+
+**Security Operations Intern · Investigations · Vulnerability Management · Threat Management**
+
+![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10-2ea44f?style=flat-square)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2015%25%20Global-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-SOC%20%7C%20DFIR%20%7C%20VAPT-d73a4a?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-0969da?style=flat-square)
+
+[LinkedIn](https://linkedin.com/in/raveena-sharma-csit) · [TryHackMe](https://tryhackme.com/p/raveenasharma392) · [Email](mailto:raveenasharma3921@gmail.com)
+
+</div>
 
 ---
 
-## Experience & Leadership
+## `$ whoami`
 
-### Cloud Security and Innovation Lead
-**AWS Student Builder Club | SSPU**
+Final-year B.Tech (Cyber Security) student in Pune who thinks like a defender and tests like an attacker. I triage alerts, chase evidence through logs and disk images, break things with VAPT tooling, and then build the systems that would have stopped it.
 
-- Contribute to cloud security learning and technical initiatives.
-- Explore AWS services and practical cloud-based solutions.
-- Encourage collaboration, experimentation, and peer learning.
+Instead of a bullet list of adjectives, here is my profile as code:
 
-### Senior Management Head
-**0x0 PIR4T3S Cybersecurity Club**
+```python
+from dataclasses import dataclass, field
 
-- Contributed to cybersecurity events, workshops, and community initiatives.
-- Supported event coordination and student engagement.
-- Helped create opportunities for practical cybersecurity learning.
+@dataclass
+class Analyst:
+    name: str = "Raveena Sharma"
+    base: str = "Pune, India"
+    degree: str = "B.Tech CS&IT (Cyber Security), SSPU, 2027"
+    cgpa: float = 9.0
+    thm_rank: str = "Top 15% globally"
+    toolbox: dict = field(default_factory=lambda: {
+        "investigate": ["Autopsy", "FTK Imager", "Wireshark", "Windows Event Logs"],
+        "assess":      ["Nessus", "Nmap", "Burp Suite", "OWASP ZAP", "Metasploit"],
+        "detect":      ["Splunk", "VirusTotal", "AbuseIPDB", "MITRE ATT&CK", "IDS/IPS"],
+        "build":       ["Python", "TypeScript", "Next.js", "PostgreSQL", "MongoDB"],
+    })
 
-### Internship Experience
+    def triage(self, alert):
+        """Enrich -> map to ATT&CK -> decide: close, escalate, or contain."""
+        ioc = self.enrich(alert, sources=["VirusTotal", "AbuseIPDB"])
+        return self.map_to_attack(ioc).verdict()
 
-**Cybersecurity Research & Development**
-- Contributed to cybersecurity research and hands-on project development.
-- Explored security problems and practical technical solutions.
+    def investigate(self, incident):
+        """Preserve evidence first. Always. Then timeline, then conclusions."""
+        image = self.acquire(incident, tool="FTK Imager")
+        return self.analyze(image, tool="Autopsy").build_timeline()
 
-**Cloud Computing**
-- Worked with Microsoft Azure and cloud infrastructure fundamentals.
+    def assess(self, target):
+        """Scan, validate manually, rate the risk, write it so a human can act on it."""
+        findings = self.scan(target, tools=["Nmap", "Nessus"]).validate(by_hand=True)
+        return findings.rank_by_risk().write_report()
 
-**AI/ML**
-- Explored machine learning concepts and their practical applications.
+    def hunt(self, hypothesis):
+        """Start from a TTP, not from an alert."""
+        return self.query_siem(hypothesis, platform="Splunk").pivot_on_iocs()
 
-**Web Development**
-- Worked with web technologies, WordPress, and application development.
+    def build(self, problem):
+        """If the tool I need does not exist, I make a prototype."""
+        return self.prototype(problem, security_by_design=True)
 
----
+    def learn(self):
+        while True:
+            self.practice(["TryHackMe: Jr Pentester", "Cisco Ethical Hacker"])
+            self.explore(["Wazuh", "ELK", "Sentinel", "Security Onion", "Suricata"])
 
-## Current Learning Goals
-
-I am continuously building on my cybersecurity foundation through practical projects and structured learning.
-
-- **Cloud Security:** AWS IAM, CloudTrail, GuardDuty, and Security Hub
-- **SOC & Threat Hunting:** Security event analysis, investigation, and detection logic
-- **Security Automation:** Python scripting for repetitive security tasks
-- **AI for Cybersecurity:** Exploring AI/ML applications in security analysis
-- **Malware Analysis:** Developing practical defensive analysis skills
-
-### My AWS Goal
-
-Build a practical AWS cloud security monitoring project that combines IAM, CloudTrail, GuardDuty, and Security Hub to explore identity monitoring, threat detection, and investigation workflows.
-
-My longer-term goal is to prepare for the **AWS Certified Security – Specialty** certification.
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RS3921&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RS3921&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RS3921&theme=tokyonight&hide_border=true)
-
-### Contribution Activity
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/RS3921/RS3921/output/github-contribution-grid-snake-dark.svg)
+me = Analyst()
+```
 
 ---
 
-## Let's Connect
+## Case File: RS-3921
 
-I enjoy connecting with cybersecurity enthusiasts, cloud engineers, developers, and researchers who are passionate about building secure and meaningful technology.
-
-- **GitHub:** [RS3921](https://github.com/RS3921)
-- **LinkedIn:** [RS3921](https://www.linkedin.com/in/raveena-sharma-csit/)
-- **Email:** [RS3921](raveenasharma3921@gmail.com)
+| Field | Detail |
+|---|---|
+| **Subject** | Raveena Sharma |
+| **Role sought** | Security Operations Internship (Investigations / Vulnerability Mgmt / Threat Mgmt) |
+| **Last role** | R&D Lead Intern, OffSecDiary (led 6 research projects over 7 months) |
+| **Known techniques** | Alert triage, DFIR, VAPT, SIEM querying, threat hunting fundamentals |
+| **Known aliases** | R&D Lead, Cloud Security & Innovation Lead, Senior Management Head |
+| **Weakness** | Cannot leave a half-finished lab unsolved |
+| **Status** | Active. Learning. Shipping. |
 
 ---
 
-*Learn continuously. Build practically. Secure by design.*
+## My Alert Triage Pipeline
+
+How I work an alert, from first signal to a decision someone can act on:
+
+```mermaid
+flowchart LR
+    A["Alert fires in SIEM (Splunk)"] --> B{"Is it a known false positive?"}
+    B -- Yes --> C["Document and tune the rule"]
+    B -- No --> D["Extract IOCs: IP, hash, domain, URL"]
+    D --> E["Enrich with VirusTotal and AbuseIPDB"]
+    E --> F["Check logs and Windows Event IDs for context"]
+    F --> G["Map behavior to MITRE ATT&CK technique"]
+    G --> H{"Confirmed malicious?"}
+    H -- No --> I["Close with written reasoning"]
+    H -- Yes --> J["Contain and preserve evidence"]
+    J --> K["Forensic analysis: Autopsy, FTK Imager, Wireshark"]
+    K --> L["Report, lessons learned, new detection rule"]
+    C --> M(["Feedback loop"])
+    I --> M
+    L --> M
+    M --> A
+```
+
+---
+
+## Skills Mapped to the Attack Lifecycle
+
+I organize what I know the way an adversary operates, so every skill answers a real question: *where does this stop the attacker?*
+
+| Phase | Question I answer | What I use |
+|---|---|---|
+| **Reconnaissance** | What does the attacker see? | Nmap, Kali Linux, DNS / TCP-IP fundamentals |
+| **Vulnerability discovery** | What can be exploited? | Nessus, Burp Suite, OWASP ZAP, OWASP Top 10 |
+| **Exploitation** | Is it really exploitable? | Metasploit, Hydra, John the Ripper, Hashcat |
+| **Detection** | Can we see it happening? | Splunk, IDS/IPS, MITRE ATT&CK, IOC/IOA/TTP analysis |
+| **Investigation** | What actually happened? | Autopsy, FTK Imager, Wireshark, Windows Event Analysis |
+| **Response** | How do we contain and recover? | Incident response, alert triage, evidence preservation |
+| **Prevention** | How do we stop it next time? | DLP, Zero Trust, Secure SDLC, GDPR / PCI-DSS / HIPAA / DPDP |
+
+```mermaid
+mindmap
+  root((Raveena))
+    Investigations
+      Digital Forensics
+      Incident Response
+      Log and Event Analysis
+      Network Traffic Analysis
+    Vulnerability Mgmt
+      VAPT
+      Risk Assessment
+      Web App Security
+      Ethical Hacking
+    Threat Mgmt
+      SIEM Splunk
+      Threat Hunting
+      MITRE ATTACK
+      DLP
+    Builder
+      Python and TypeScript
+      Next.js and React
+      PostgreSQL and MongoDB
+      GCP and Azure
+    Governance
+      GDPR
+      HIPAA
+      PCI-DSS
+      DPDP Act
+```
+
+---
+
+## Featured Builds
+
+Security work that ships as code, not slides. Each project below is expandable.
+
+<details>
+<summary><b>Data Loss Prevention (DLP) System</b> &nbsp;|&nbsp; endpoint agent + dashboard + ML detection</summary>
+
+<br>
+
+An enterprise DLP prototype with a Windows endpoint agent, an admin dashboard, and Active Directory-ready policy mapping. Built during my R&D Lead internship at OffSecDiary.
+
+**What it does**
+- Per-device agent tokens so every endpoint is individually authenticated
+- Real-time monitoring that flags unauthorized data movement
+- ML-based malicious-behavior detection that cuts false positives in alerts
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant U as User / Process
+    participant A as Windows Endpoint Agent
+    participant S as Policy and Detection Server
+    participant M as ML Behavior Module
+    participant D as Admin Dashboard
+    participant R as Security Analyst
+
+    A->>S: Authenticate with per-device token
+    U->>A: Copies file / writes to USB / uploads
+    A->>S: Stream activity event
+    S->>S: Match against AD-mapped policy
+    S->>M: Score behavior for maliciousness
+    M-->>S: Risk score
+    alt High risk and policy violation
+        S->>D: Raise alert with context
+        D->>R: Notify for review
+        R->>D: Confirm or mark false positive
+    else Benign
+        S->>S: Log only, no alert
+    end
+```
+
+**Why the ML layer matters:** a rule-only DLP drowns analysts in noise. Scoring behavior before alerting is what makes the tool usable at 3 AM.
+
+</details>
+
+<details>
+<summary><b>Symbiotic Chunk Storage (SCS)</b> &nbsp;|&nbsp; secure distributed storage</summary>
+
+<br>
+
+Distributed storage designed so that no single node can read your data, no single failure can lose it, and deletion is provable.
+
+- **Confidentiality:** AES-256-GCM encryption
+- **Fault tolerance:** Reed-Solomon erasure coding
+- **Integrity:** Merkle proofs plus cross-chain anchoring for tamper evidence
+- **Resilience:** autonomous healing of lost shards
+- **Compliance:** crypto-shredding for GDPR / HIPAA-aligned deletion
+
+```mermaid
+flowchart TB
+    F["Original file"] --> E["Encrypt with AES-256-GCM"]
+    E --> C["Split into chunks"]
+    C --> RS["Reed-Solomon erasure coding"]
+    RS --> N1["Node 1"]
+    RS --> N2["Node 2"]
+    RS --> N3["Node 3"]
+    RS --> N4["Node N"]
+    C --> MT["Build Merkle tree"]
+    MT --> AN["Anchor root across chains"]
+    N2 -. "node lost" .-> H["Autonomous healing rebuilds shard"]
+    H --> N2
+    K["Delete the encryption key"] --> X["Crypto-shredding: data becomes unreadable everywhere"]
+```
+
+</details>
+
+<details>
+<summary><b>SAT-SA: Supervisory Analytics Tool</b> &nbsp;|&nbsp; Final-year major project, Smart India Hackathon</summary>
+
+<br>
+
+An offline, explainable analytics platform that assesses case-management and process data across Critical Sector Entities and highlights execution gaps. Guided by Dr. Rudresh Shirwaikar, Director of CSIT.
+
+```mermaid
+flowchart LR
+    D["Case-management and process data"] --> P["Offline preprocessing"]
+    P --> R["Rule-based checks"]
+    P --> ML["ML risk model"]
+    R --> H["Hybrid scoring engine"]
+    ML --> H
+    H --> S["Entity-level risk scores"]
+    S --> Q["Prioritized sample queue"]
+    Q --> X["Expert review"]
+    H --> W["Explanations: why this entity scored high"]
+    W --> X
+```
+
+**Design principle:** a risk score nobody can explain is a score nobody trusts. Every output ships with its reasoning.
+
+</details>
+
+<details>
+<summary><b>AI-Driven Pre-Transaction Fraud Risk Warning System for UPI</b></summary>
+
+<br>
+
+Stops the user before the money moves. Analyzes payment messages, URLs, QR codes and transaction features, then gives an explainable verdict. Backed by a review of 15 research papers across ML, GNN, NLP/BERT and deep learning for financial fraud detection.
+
+```mermaid
+flowchart LR
+    I1["Payment message"] --> NLP["NLP / BERT analysis"]
+    I2["URL"] --> UR["URL risk analysis"]
+    I3["QR code"] --> QR["QR decode and check"]
+    I4["Transaction features"] --> GN["GNN and ML scoring"]
+    NLP --> F["Fusion and explanation layer"]
+    UR --> F
+    QR --> F
+    GN --> F
+    F --> V{"Verdict"}
+    V --> S["Safe"]
+    V --> SU["Suspicious"]
+    V --> HR["High-Risk"]
+```
+
+</details>
+
+<details>
+<summary><b>Sovereign On-Premise Agentic AI Workbench</b> &nbsp;|&nbsp; Smart India Hackathon 2026, MRPL</summary>
+
+<br>
+
+An air-gapped, self-hosted AI workbench for confidential industrial data. Zero external network calls, designed on zero-trust principles.
+
+```mermaid
+flowchart TB
+    subgraph AIRGAP["Air-gapped environment: zero external network calls"]
+        U["Engineer"] --> GW["Gateway with authentication"]
+        GW --> RT["Task router"]
+        RT --> L1["Open-weight LLM A"]
+        RT --> L2["Open-weight LLM B"]
+        RT --> L3["Vision and OCR model"]
+        L1 --> T["Local tools and planning"]
+        L2 --> T
+        L3 --> T
+        T --> DATA[("Confidential industrial data")]
+    end
+    NET["Internet"] -. "blocked" .-x AIRGAP
+```
+
+The router auto-selects the right model per task, so you get capability without sending a single byte outside the plant.
+
+</details>
+
+<details>
+<summary><b>Secure Web Applications</b> &nbsp;|&nbsp; Cybersecurity Portfolio and Unified Operations Center</summary>
+
+<br>
+
+Two full-stack apps where security was a requirement from commit one, not a patch at the end. Stack: Next.js, React, TypeScript, PostgreSQL (Prisma) and MongoDB.
+
+```mermaid
+flowchart TB
+    R["Incoming request"] --> L1["Layer 1: Rate limiting"]
+    L1 --> L2["Layer 2: CSP and security headers"]
+    L2 --> L3["Layer 3: Input validation"]
+    L3 --> L4["Layer 4: Signed HTTP-only session cookie (JWT)"]
+    L4 --> L5["Layer 5: Role-based access control"]
+    L5 --> L6["Layer 6: bcrypt-hashed credentials"]
+    L6 --> L7["Layer 7: Audit logging"]
+    L7 --> APP["Application logic"]
+    UP["File upload"] --> V1["MIME check"] --> V2["Signature check"] --> APP
+```
+
+</details>
+
+---
+
+## Journey So Far
+
+```mermaid
+timeline
+    title Experience Timeline
+    2023 : Started B.Tech in Cyber Security at SSPU
+    2024 : Cloud Computing Intern at YHills using Azure
+         : AI Intern at Corizo applying ML to anomaly and threat detection
+    2025 : Web Developer Intern at BloggersCon Vision
+         : Google Cloud Study Jams with 19 skill badges
+         : Senior Management Head at 0x0 PIR4T3S Club
+    2026 : R&D Lead Intern at OffSecDiary leading 6 research projects
+         : X'PLOITATHON CTF Round 2 qualifier
+         : Smart India Hackathon 2026
+         : Cloud Security and Innovation Lead at AWS Student Builder Club
+    2027 : Graduation and full-time security career
+```
+
+### Academic Trajectory
+
+```mermaid
+xychart-beta
+    title "CGPA by year (out of 10)"
+    x-axis ["Year 1", "Year 2", "Year 3"]
+    y-axis "CGPA" 8 --> 10
+    bar [8.76, 9.06, 9.21]
+    line [8.76, 9.06, 9.21]
+```
+
+Each year better than the last. That is also how I approach every skill.
+
+---
+
+## CTF and Competition Record
+
+| Event | Result |
+|---|---|
+| **X'PLOITATHON CTF 2026** | Qualified for Round 2 (Round 1: rank 11 of 175, Round 2: rank 22 of 50) |
+| **Bypass CTF** | Ranked 20th |
+| **MumbaiHacks** | Qualified for Round 2 |
+| **TryHackMe** | Top 15% globally |
+
+---
+
+## Currently Leveling Up
+
+```mermaid
+stateDiagram-v2
+    direction LR
+    [*] --> Foundations
+    Foundations: Foundations done
+    Foundations --> InProgress
+    state InProgress {
+        direction TB
+        THM: TryHackMe Cyber Security 101 and Jr Pentester path
+        CEH: Cisco Ethical Hacker
+    }
+    InProgress --> NextUp
+    state NextUp {
+        direction TB
+        W: Wazuh SIEM and XDR
+        E: ELK Stack
+        MS: Microsoft Sentinel
+        SO: Security Onion
+        SU: Suricata IDS and IPS
+    }
+    NextUp --> [*]
+```
+
+**Certifications:** CCSC · Introduction to Cloud Security (Simplilearn) · Google Cloud Study Jams 2025 (19 skill badges + Gen AI Arcade) · Cisco Ethical Hacker (in progress) · Udemy Ethical Hacking · TryHackMe PreSecurity
+
+---
+
+## Beyond the Terminal
+
+- **Cloud Security & Innovation Lead**, AWS Student Builder Club, SSPU Core Team (2026-27): cloud-security projects, workshops and hands-on sessions
+- **Senior Management Head**, 0x0 PIR4T3S Club (Oct 2025 - Apr 2026): ran operations and events for a cybersecurity community, including CTFs and workshops
+- **Internship Coordinator** and **Smart India Hackathon Internal Coordinator**: connecting students with real opportunities
+- **Session Anchor** for SSPU conferences, because explaining security to a room is part of the job too
+
+---
+
+## `security.txt`
+
+Because a security person's contact page should be a disclosure policy:
+
+```text
+Contact:     mailto:raveenasharma3921@gmail.com
+Contact:     https://linkedin.com/in/raveena-sharma-csit
+Expires:     2027-12-31T23:59:59.000Z
+Preferred-Languages: en, hi
+Canonical:   https://github.com/RS3921
+Policy:      Internships, research collaboration, CTF teams and
+             security-project ideas are all in scope.
+Hiring:      Open to SOC / DFIR / VAPT internship opportunities.
+```
+
+---
+
+<div align="center">
+
+```text
+ [ detect ]  ->  [ investigate ]  ->  [ respond ]  ->  [ build it better ]
+```
+
+*Every incident is a lesson. Every lesson becomes a detection rule.*
+
+</div>
