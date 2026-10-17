@@ -101,12 +101,11 @@ I organize what I know the way an adversary operates, so every skill answers a r
 
 ## Featured Builds
 
-Security work that ships as code, not slides. Each project is expandable.
+Security work that ships as code, not slides.
 
-<details>
-<summary><b>Cybersecurity Portfolio</b> &nbsp;|&nbsp; secure, database-backed web application</summary>
+### Cybersecurity Portfolio
 
-<br>
+*Secure, database-backed web application*
 
 A full-stack portfolio built with Next.js 14, React, TypeScript and PostgreSQL (Prisma), with a protected admin editor so content can be updated without touching code. Security is part of how it works, not an add-on: signed HTTP-only session cookies, bcrypt hashing, rate limiting, CSP and security headers, audit logging, and a file-upload endpoint that checks both MIME type and file signature.
 
@@ -155,12 +154,10 @@ flowchart TB
     class OK good
 ```
 
-</details>
 
-<details>
-<summary><b>Sovereign On-Premise Agentic AI Workbench</b> &nbsp;|&nbsp; Smart India Hackathon 2026, MRPL</summary>
+### Sovereign On-Premise Agentic AI Workbench
 
-<br>
+*Smart India Hackathon 2026, MRPL*
 
 An air-gapped, self-hosted AI workbench for confidential industrial data, being built with zero external network calls and zero-trust principles. A multi-model backend auto-selects the right open-weight LLM per task, with local tool use, planning and OCR/vision.
 
@@ -180,12 +177,10 @@ flowchart TB
     NET["Internet"] -. "blocked" .-x AIRGAP
 ```
 
-</details>
 
-<details>
-<summary><b>SAT-SA: Supervisory Analytics Tool</b> &nbsp;|&nbsp; Final-year major project, Smart India Hackathon</summary>
+### SAT-SA: Supervisory Analytics Tool
 
-<br>
+*Final-year major project, Smart India Hackathon*
 
 An offline, explainable analytics platform that assesses case-management and process data across Critical Sector Entities and highlights execution gaps. Guided by Dr. Rudresh Shirwaikar, Director of CSIT.
 
@@ -205,12 +200,10 @@ flowchart LR
 
 A risk score nobody can explain is a score nobody trusts, so every output ships with its reasoning.
 
-</details>
 
-<details>
-<summary><b>AI-Driven Pre-Transaction Fraud Risk Warning System for UPI</b> &nbsp;|&nbsp; Final-year team project</summary>
+### AI-Driven Pre-Transaction Fraud Risk Warning System for UPI
 
-<br>
+*Final-year team project*
 
 Warns the user before the money moves. It analyzes payment messages, URLs, QR codes and transaction features, then gives an explainable Safe, Suspicious or High-Risk verdict. Backed by a review of 15 research papers across ML, GNN, NLP/BERT and deep learning for financial fraud detection. Guided by Dr. Rudresh Shirwaikar, Director of CSIT.
 
@@ -230,12 +223,10 @@ flowchart LR
     V --> HR["High-Risk"]
 ```
 
-</details>
 
-<details>
-<summary><b>Data Loss Prevention (DLP) System</b> &nbsp;|&nbsp; endpoint agent, dashboard and ML detection</summary>
+### Data Loss Prevention (DLP) System
 
-<br>
+*Endpoint agent, dashboard and ML detection*
 
 An enterprise DLP prototype with a Windows endpoint agent, an admin dashboard and Active Directory-ready policy mapping, built during my R&D Lead internship at OffSecDiary.
 
@@ -270,12 +261,10 @@ sequenceDiagram
 
 A rule-only DLP drowns analysts in noise. Scoring behavior before alerting is what keeps it usable.
 
-</details>
 
-<details>
-<summary><b>Symbiotic Chunk Storage (SCS)</b> &nbsp;|&nbsp; secure distributed storage</summary>
+### Symbiotic Chunk Storage (SCS)
 
-<br>
+*Secure distributed storage*
 
 Distributed storage designed so no single node can read your data, no single failure can lose it, and deletion is provable.
 
@@ -301,12 +290,10 @@ flowchart TB
     K["Delete the encryption key"] --> X["Crypto-shredding: data becomes unreadable everywhere"]
 ```
 
-</details>
 
-<details>
-<summary><b>Unified Operations Center</b> &nbsp;|&nbsp; employee management system, team project</summary>
+### Unified Operations Center
 
-<br>
+*Employee management system, team project*
 
 A full-stack employee management platform built by a team using Next.js, React, TypeScript and MongoDB. I contributed to the calendar and event-tracking modules and the performance analytics dashboard, and to securing the platform with JWT in HTTP-only cookies, bcrypt hashing, role-based access control and input validation.
 
@@ -360,7 +347,6 @@ sequenceDiagram
     W->>W: Verify JWT, then check role permissions
 ```
 
-</details>
 
 ---
 
