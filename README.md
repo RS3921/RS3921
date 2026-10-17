@@ -156,9 +156,9 @@ Contributed to club operations, cybersecurity events, workshops, and community l
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RS3921&theme=tokyonight&hide_border=true)
 
-### Contribution Activity
+## Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RS3921&theme=tokyo-night&hide_border=true)
+![Raveena's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RS3921&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph)
 
 ---
 
